@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/72502875/230724484-195d278e-2e73-47ac-a0a8-0beee2a96d78.png)
 
 
-黑塔可爱捏
+黑塔可拽捏
 ![image](https://user-images.githubusercontent.com/72502875/230723304-3920c5ea-4af2-4ca2-85ca-83f5dcff70bc.png)
 
 
