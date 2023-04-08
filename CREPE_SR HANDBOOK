@@ -1,0 +1,201 @@
+Created by Midrooms (and other ppl idk)
+How to use commands:   Press Esc > Open your profile > Edit your bio > input the command.
+A PREFIX IS NOT NEEDED JUST TYPE THE COMMAND
+(ex: avatar giveall)
+   
+    Commands:
+
+account <create|delete> <username> <UID>
+Creates or deletes an account from the database.
+
+avatar <add|remove|giveall|removeall> <avatarId>
+Add or remove avatars you own.
+
+ban
+Bans the targeted user
+
+battle <enemy ID>
+Battle an enemy with their ID. Currently only works on plane 20101.
+
+broadcast <msg>
+Broadcast a message to the server.
+
+debug
+Debug verbose level.
+
+exit
+Closes the server.
+
+help
+View available server commands.
+
+item <give|giveall> <itemId> [x<count>|l<level>|r<rank>|p<promotion>]
+Give an item to the targeted user.
+
+kick
+Kick the targeted user from the server.
+
+kickall
+Kick all users from the server.
+
+list
+Lists all users on the server.
+
+mail <title|content|sender|expire|items|send|sendall> [args|json]
+Send and receive mail.
+
+Example: mail title Welcome to CrepeSR!
+
+Example: mail expire 86400 (in 1 day)
+
+Example: mail items [{\"itemId\": 1102, \"num\": 1, \"level\": 80}, {\"itemId\": 102,
+\"num\": 10}]
+
+maintenance [on|off] [message]
+Put the server in maintenance mode.
+
+mission
+Broken.
+
+packet <CmdID> <JSON>
+Packets.
+
+pos
+Get the position of the targeted user.
+
+prop <propId>
+Not implemented
+
+quest
+Broken.
+
+say <msg>
+Say a message to the targeted user.
+
+scene <planeID> [floorID]
+Set your scene and floorID.
+
+sync
+Sync (duh).
+
+target <UID>
+Set your target to the specified UID.
+
+Avatar IDs:
+Just use command - avatar giveall
+
+March 7th - 1001
+Dan Heng - 1002
+Himeko - 1003
+Welt - 1004
+Kafka - 1005
+Silver Wolf - 1006
+Arlan - 1008
+Asta - 1009
+Herta - 1013
+Bronya - 1101
+Seele - 1102
+Serval - 1103
+Gepard - 1104
+Natasha - 1105
+Pela - 1106
+Clara - 1107
+Sampo - 1108
+Hook - 1109
+Qingque - 1201
+Tingyun - 1202
+Luocha - 1203
+Jingyuan - 1204
+Sushang - 1206
+Yanqing - 1209
+Bailu - 1211
+Trailblazer (Male) - 8001
+Trailblazer (Female) - 8002
+Trailblazer (Male) (2) - 8003
+Trailblazer (Female) (2) - 8004
+Enemy IDs:
+Command - battle <id>
+Doomsday Beast - 8015010
+Cocolia: Fabricated Mother - 1005010
+Cocolia - 1004011
+Gepard - 1004021
+Svarog - 1014011
+Bronya - 100403001
+Frigid Prowler - 1023020
+Stormbringer - 8003050
+Voidranger: Trampler - 8013012
+Silvermane: Officer Dunn - 100301002
+Greyback Whale - 101301005
+??? - 101302003
+Searing Prowler - 102301001
+Ice Out of Space - 800301001
+Blaze Out of Space - 800302001
+Guardian Shadow - 800303002
+
+
+     Scene IDs:
+Don’t try to enter scenes marked as “DEAD”
+Command - scene <id>
+Parlor Car - 10000 DEAD
+Master Control Zone - 10001
+Administrative District - 10101
+Boulder Town - 10102
+Central Starskiff Haven - 10201
+Base Zone - 20001
+Storage Zone - 20002 same as Base zone
+Supply Zone - 20003 same as Base zone
+Path Space - 20100 DEAD
+Outlying Snow Plains - 20101 (Recommended to fight monsters there)
+Backwater Pass - 20111
+Great Mine - 20121
+Rivet Town - 20122
+Robot Settlement - 20123
+Silvermane Guard Restricted Zone - 20131
+Corridor of Fading Echoes - 20132
+Everwinter Hill - 20133 DEAD
+Everwinter Hill - 20134
+Cloudford - 20211
+Stargazer Navalia - 20212
+Cloudford - 20213 DEAD
+Parlor Car - 20214 DEAD
+853985869 - 30101 DEAD
+853985868 - 30102 DEAD
+853985867 - 30103 DEAD
+853985866 - 30104 DEAD
+853985865 - 30105 DEAD
+2016785284 - 30120 DEAD
+Cavern of Corrosion - 30201 DEAD
+853985803 - 30301 DEAD
+Storage Zone - 40002 DEAD
+Supply zone - 40003 DEAD
+Corridor of Fading Echoes - 40101 DEAD
+Great Mine - 40121 DEAD
+Silvermane Guard Restricted Zone - 40131 DEAD
+Cloudford - 40211 DEAD
+-732304349 - 41000 DEAD / name is Robot Settlement
+Robot Settlement - 41007 DEAD
+Cloudford - 41008 DEAD
+Great Mine - 41009 DEAD
+Corridor of Fading Echoes - 41010 DEAD
+Silvermane Guard Restricted Zone - 41011 DEAD
+Cloudford - 41012 DEAD
+Rivet Town - 41122 DEAD
+Robot Settlement - 41123 DEAD
+Silvermane Guard Restricted Zone - 41131 DEAD
+Corridor of Fading Echoes - 41132 DEAD
+Cloudford - 41211 DEAD
+Stargazer Navalia - 41212 DEAD
+??? - 80000 DEAD
+Simulated Universe - 80001 DEAD
+Herta's Office - 80112
+Simulated Universe - 81001 DEAD
+Simulated Universe - 81002 DEAD
+Simulated Universe - 81003 DEAD
+Simulated Universe - 81111 DEAD
+Simulated Universe - 81121 DEAD
+Simulated Universe - 81122 DEAD
+Simulated Universe - 81123 DEAD
+Simulated Universe - 81131 DEAD
+Simulated Universe - 81132 DEAD
+Simulated Universe - 81211 DEAD
+Simulated Universe - 81212 DEAD
