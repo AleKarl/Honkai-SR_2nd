@@ -1,5 +1,7 @@
 # Honkai-SR_3nd
-一个能让你在4.26公测之前，提前玩到星穹铁道，servers from Crepe_SR 
+一个能让你在4.26公测之前，提前玩到星穹铁道三测，servers from Crepe_SR 
+![image](https://user-images.githubusercontent.com/72502875/230723304-3920c5ea-4af2-4ca2-85ca-83f5dcff70bc.png)
+
 4.8.2023
 通知：三测Crepe_SR不再可用，所以我推荐二测天理SR server并放在downloading，但教程依旧可用
 
