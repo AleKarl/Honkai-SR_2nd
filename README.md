@@ -30,3 +30,16 @@
 ![image](https://user-images.githubusercontent.com/72502875/230723890-d79c5839-c2f5-4558-9cbc-ea225cdbc196.png)
 
 
+打开 TomyWebCert.cer
+
+![image](https://user-images.githubusercontent.com/72502875/230724068-7d9fd5cf-edc9-404e-b662-a45b5a54f5ee.png)
+
+点击安装证书，之后安装后再打开  米哈游代理转向2.1.0.exe
+
+如果不成功，无法正常打开 米哈游代理转向2.1.0.exe 就多安装几次证书（并向TomysJan的提供反馈）
+
+.P
+
+![image](https://user-images.githubusercontent.com/72502875/230724201-94ffa15e-c091-4335-b8df-1952bccd3135.png)
+
+
