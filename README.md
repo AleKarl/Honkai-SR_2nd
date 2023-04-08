@@ -6,7 +6,7 @@
 
 
 更新 4.8.2023
-通知：三测Crepe_SR不再可用，所以我推荐二测天理SR server并放在downloading 
+通知：三测Crepe_SR不再可用，所以我推荐二测天理SR server并把他们的提供的客户端下载link放在downloading 
 
 
 但原教程依旧可用，或者查看天理提供的教程 https://casks.me/615/
