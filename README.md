@@ -40,6 +40,19 @@
 
 .P
 
-![image](https://user-images.githubusercontent.com/72502875/230724201-94ffa15e-c091-4335-b8df-1952bccd3135.png)
+![image](https://user-images.githubusercontent.com/72502875/230724248-e741a428-4996-4e3e-8ec7-a2f2d713701e.png)
+
+好了之后往这里输入sr.crepe.moe（由于CrepeSR暂停服务所以你改成sr.tianliserver.com）
+
+![image](https://user-images.githubusercontent.com/72502875/230724285-478f6cd5-9f3e-409c-8685-107c02b11880.png)
+
+然后打开这个
+
+![image](https://user-images.githubusercontent.com/72502875/230724379-82e6e674-4431-4ac3-937a-99906af8e0cb.png)
+
+正常输入账户密码相当于注册了
+
+![image](https://user-images.githubusercontent.com/72502875/230724369-affa5711-212e-4418-86f0-ea863846dc9d.png)
+
 
 
