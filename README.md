@@ -1,5 +1,7 @@
 # Honkai-SR_3nd
 一个能让你在4.26公测之前，提前玩到星穹铁道，servers from Crepe_SR 
+4.8.2023
+通知：三测Crepe_SR不再可用，所以我推荐二测天理SR server并放在downloading，但教程依旧可用
 
 首先你需要点击downloading cilent link，这里是游戏的测试客户端的下载连接，而你只需要下载PC setup
 像GenshinImpact launcher一样，进行安装和更新，并等待安装完成
