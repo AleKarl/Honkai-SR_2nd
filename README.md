@@ -56,7 +56,7 @@
 
 三测界面
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/72502875/230724736-6485e0fd-cc38-4e33-9f7f-570df7466c1c.png)
 
 
 二测界面
