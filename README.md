@@ -54,6 +54,13 @@
 
 正常输入账户密码相当于注册了
 
+三测界面
+
+![Uploading image.png…]()
+
+
+二测界面
+
 ![image](https://user-images.githubusercontent.com/72502875/230724369-affa5711-212e-4418-86f0-ea863846dc9d.png)
 
 
