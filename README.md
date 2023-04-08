@@ -31,7 +31,11 @@
 
 
 mhy proxy.zip有以下文件
+
 · TomyWebCert.cer 证书文件（安装它）
+
 · version.txt  版本文本
+
 · whatsnew.txt  更新文本
+
 · 米哈游代理转向2.1.0.exe  本体（需要先安装证书license）
