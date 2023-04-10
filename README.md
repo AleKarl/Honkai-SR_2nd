@@ -16,7 +16,7 @@ Notice: The third test Crepe_SR is no longer available. They have received a DMC
 
 and we put it in “downloading”
 
-注意：第三个测试Crepe_SR不再可用。他们收到了来自HoYoverse的DMCA警告，所以我建议使用第二个测试Tianli SR服务器，并提供他们的客户端下载链接。
+注意：三测版本的Crepe_SR不再可用。因为他们收到了来自HoYoverse的DMCA（美国千年数字法案）警告，所以我建议使用第二个测试Tianli SR服务器，并提供他们的客户端下载链接。
 
 我把它放在downloading
 
