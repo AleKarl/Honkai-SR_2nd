@@ -1,5 +1,6 @@
 # Honkai-SR_3nd
-一个能让你在4.26公测之前，提前玩到星穹铁道三测，servers from Crepe_SR but now 天理server
+One project which can allow you to enjoy Honkai：StarRail before 4.26
+一个能让你在4.26公测之前，提前玩到星穹铁道三测，servers from Crepe_SR but now TianLi server （天理服务器）
 
 ![image](https://user-images.githubusercontent.com/72502875/230724484-195d278e-2e73-47ac-a0a8-0beee2a96d78.png)
 
