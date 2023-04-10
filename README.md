@@ -1,5 +1,6 @@
 # Honkai-SR_3nd
 One project which can allow you to enjoy Honkai：StarRail before 4.26
+
 一个能让你在4.26公测之前，提前玩到星穹铁道三测，servers from Crepe_SR but now TianLi server （天理服务器）
 
 ![image](https://user-images.githubusercontent.com/72502875/230724484-195d278e-2e73-47ac-a0a8-0beee2a96d78.png)
@@ -10,6 +11,7 @@ One project which can allow you to enjoy Honkai：StarRail before 4.26
 
 
 更新 4.8.2023
+
 通知：三测Crepe_SR不再可用，它们收到了来自HoYoverse的DMCA警告，所以我推荐使用二测天理SR server并提供它们的客户端下载link
 放在downloading 
 
@@ -18,16 +20,20 @@ One project which can allow you to enjoy Honkai：StarRail before 4.26
 
 
 首先你需要点击downloading cilent link，这里是游戏的测试客户端的下载连接，而你只需要下载PC setup
+
 像GenshinImpact launcher一样，进行安装和更新，并等待安装完成
 
 
 你还需要一个叫“米哈游代理转向2.1.0”的工具，我会把它的下载link放在“how to connect CrepeSR”
+
 点击下面链接下载即可，它不是病毒但可能会报错
 
 CN
+
 https://www.123pan.com/s/Dq38Vv-sEnHA.html
 
 OS
+
 https://anonfiles.com/ncJeoekfz8/mhy_proxy_zip
 
 ![image](https://user-images.githubusercontent.com/72502875/230722390-bbeb2ee2-a2af-4412-93b9-d2a453f12506.png)
