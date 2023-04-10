@@ -31,7 +31,7 @@ First of all, you need to click the downloading cilent link, which is the downlo
 
 Like GenshinImpact launcher, install and update, and wait for the installation to complete.
 
-You also need a tool called "Mihayou Agent to 2.1.0", and I will put its download link in "how to connect CrepeSR"
+You also need a tool called "米哈游代理工具/MiHoYo proxy tools 2.1.0", and I will put its download link in "how to connect CrepeSR"
 
 Click the link below to download. It is not a virus, but it may report an error.
 
@@ -39,7 +39,7 @@ Click the link below to download. It is not a virus, but it may report an error.
 
 像GenshinImpact启动器一样，安装和更新，然后等待安装完成。
 
-您还需要一个名为“Mihayou Agent to 2.1.0”的工具，我会将其下载链接放在“如何连接CrepeSR”中
+您还需要一个名为“米哈游代理工具 2.1.0”的工具，我会将其下载链接放在“how to connect CrepeSR”中
 
 点击以下链接下载。它不是病毒，但它可能会报告错误。
 
