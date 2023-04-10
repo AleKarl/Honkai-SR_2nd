@@ -27,14 +27,21 @@ The current tutorial is still available. You can check their documents below.
 https://casks.me/615/
 
 
-首先你需要点击downloading cilent link，这里是游戏的测试客户端的下载连接，而你只需要下载PC setup
+First of all, you need to click the downloading cilent link, which is the download link of the game's test client, and you only need to download the PC setup.
 
-像GenshinImpact launcher一样，进行安装和更新，并等待安装完成
+Like GenshinImpact launcher, install and update, and wait for the installation to complete.
 
+You also need a tool called "Mihayou Agent to 2.1.0", and I will put its download link in "how to connect CrepeSR"
 
-你还需要一个叫“米哈游代理转向2.1.0”的工具，我会把它的下载link放在“how to connect CrepeSR”
+Click the link below to download. It is not a virus, but it may report an error.
 
-点击下面链接下载即可，它不是病毒但可能会报错
+首先，您需要单击下载链接，这是游戏测试客户端的下载链接，您只需下载PC设置。
+
+像GenshinImpact启动器一样，安装和更新，然后等待安装完成。
+
+您还需要一个名为“Mihayou Agent to 2.1.0”的工具，我会将其下载链接放在“如何连接CrepeSR”中
+
+点击以下链接下载。它不是病毒，但它可能会报告错误。
 
 CN
 
