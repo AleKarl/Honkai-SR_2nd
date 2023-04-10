@@ -1,5 +1,5 @@
 # Honkai-SR_3nd
-One project which can allow you to enjoy Honkai：StarRail before 4.26
+One project which can allow you to enjoy Honkai:StarRail before 4.26
 
 一个能让你在4.26公测之前，提前玩到星穹铁道三测，servers from Crepe_SR but now TianLi server （天理服务器）
 
@@ -10,10 +10,15 @@ One project which can allow you to enjoy Honkai：StarRail before 4.26
 ![image](https://user-images.githubusercontent.com/72502875/230723304-3920c5ea-4af2-4ca2-85ca-83f5dcff70bc.png)
 
 
-更新 4.8.2023
+Update/更新 4.8.2023
 
-通知：三测Crepe_SR不再可用，它们收到了来自HoYoverse的DMCA警告，所以我推荐使用二测天理SR server并提供它们的客户端下载link
-放在downloading 
+Notice: The third test Crepe_SR is no longer available. They have received a DMCA warning from HoYoverse, so I recommend using the second test Tianli SR server and provide their client download link.
+
+Put it in downloading
+
+注意：第三个测试Crepe_SR不再可用。他们收到了来自HoYoverse的DMCA警告，所以我建议使用第二个测试Tianli SR服务器，并提供他们的客户端下载链接。
+
+把它放在下载中
 
 
 但原教程依旧可用，或者查看天理提供的教程 https://casks.me/615/
