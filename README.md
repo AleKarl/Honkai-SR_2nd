@@ -14,14 +14,17 @@ Update/更新 4.8.2023
 
 Notice: The third test Crepe_SR is no longer available. They have received a DMCA warning from HoYoverse, so I recommend using the second test Tianli SR server and provide their client download link.
 
-Put it in downloading
+and we put it in “downloading”
 
 注意：第三个测试Crepe_SR不再可用。他们收到了来自HoYoverse的DMCA警告，所以我建议使用第二个测试Tianli SR服务器，并提供他们的客户端下载链接。
 
-把它放在下载中
+我把它放在downloading
 
+The current tutorial is still available. You can check their documents below.
 
-但原教程依旧可用，或者查看天理提供的教程 https://casks.me/615/
+当前教程仍然可用。你可以在下面查看他们的文件。
+
+https://casks.me/615/
 
 
 首先你需要点击downloading cilent link，这里是游戏的测试客户端的下载连接，而你只需要下载PC setup
